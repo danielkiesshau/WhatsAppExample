@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "220879230020",
+    "firebase_url": "https://whatsappexample-f290c.firebaseio.com",
+    "project_id": "whatsappexample-f290c",
+    "storage_bucket": "whatsappexample-f290c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220879230020:android:a08545dd28d8c0a05a5811",
+        "android_client_info": {
+          "package_name": "com.whatsapp.cursoandroid.dkiesshau.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220879230020-g0lm28ej0665fg5l30hieseu4h6u5qag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dkiesshau.whatsappexample",
+            "certificate_hash": "bf96172fe6192cca3c51477ad6ceb062f3a60342"
+          }
+        },
+        {
+          "client_id": "220879230020-dr7advl7egmofs6brgfrah0tms2lvbl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUb6mUHzmUyrglkRrmKoAjqYmzg6rsKuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220879230020-dr7advl7egmofs6brgfrah0tms2lvbl1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
