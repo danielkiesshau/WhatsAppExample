@@ -8,8 +8,8 @@
 5. Search in home page for contacts/messages
 ## Screencshots
 
-![ChatTab](https://imgur.com/URTcIiP)
-![ContactsTab](https://imgur.com/FgG9UbK)
-![CreateGroup](https://imgur.com/EE2OaTx)
-![GroupChat](https://imgur.com/enmwaYM)
-![Search](https://imgur.com/n1utvls)
+![ChatTab](https://i.imgur.com/URTcIiP.png)
+![ContactsTab](https://i.imgur.com/FgG9UbK.png)
+![CreateGroup](https://i.imgur.com/EE2OaTx.png)
+![GroupChat](https://i.imgur.com/enmwaYM.png)
+![Search](https://i.imgur.com/n1utvls.png)
