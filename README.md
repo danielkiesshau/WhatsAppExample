@@ -4,7 +4,7 @@
 1. Firebase authentication
 2. Contacts tab
 3. Chats tab
-4. Create and use Single or Group chat pages
+4. Create and talk using Single or Group chat pages
 5. Search in home page for contacts/messages
 ## Screenshots
 
